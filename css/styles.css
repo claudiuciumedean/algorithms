@@ -1,0 +1,5 @@
+table { border:.1px solid #000;  }
+    td { width:25px; height:25px; }
+    td.blocked { background-color:grey; }
+    td.start { background-color:#ff0000; }
+    td.end { background-color :#0000ff; }
